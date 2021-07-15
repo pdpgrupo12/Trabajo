@@ -122,7 +122,14 @@ aside {
 footer {
     color: var(--segundcolor);
 }
+.button {
+  transition-duration: 0.4s;
+}
 
+.button:hover {
+  background-color: #E2B33F; /* Green */
+  color: white;
+}
 footer a {
     text-decoration: none;
     color: var(--segundcolor);
