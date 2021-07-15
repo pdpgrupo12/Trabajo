@@ -123,11 +123,12 @@ footer {
     color: var(--segundcolor);
 }
 .button {
+     background-color: #E2B33F; /* Green */
   transition-duration: 0.4s;
 }
 
 .button:hover {
-  background-color: #E2B33F; /* Green */
+  background-color: #F9D178; /* Green */
   color: var(--coloroscuro);
 }
 footer a {
