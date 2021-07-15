@@ -128,7 +128,7 @@ footer {
 
 .button:hover {
   background-color: #E2B33F; /* Green */
-  color: white;
+  color: var(--coloroscuro);
 }
 footer a {
     text-decoration: none;
