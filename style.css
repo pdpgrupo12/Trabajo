@@ -41,7 +41,7 @@ h5,
 h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
-familia de fuentes: 'Barrio', cursiva;
+familia de fuentes: 'Barrio', cursive;
     font-weight: 400;
 }
 
