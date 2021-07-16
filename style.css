@@ -23,7 +23,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 
 body {
     /* asignen aquí las tipografías y colores para todo texto */
-familia de fuentes: 'Space Mono', monoespacio;    font-weight: 400familia de fuentes: 'Space Mono', monoespacio;
+font-family: 'Space Mono', monospace;    font-weight: 400 ; font-family: 'Space Mono', monospace;
    
     background: var(--segundocolor);
     color: var(--colorclaro);
@@ -41,7 +41,7 @@ h5,
 h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
-familia de fuentes: 'Barrio', cursive;
+font-family: 'Barrio', cursive;
     font-weight: 400;
 }
 
