@@ -72,7 +72,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 
 header {
     background-color: var(--segundocolor);
-    background-image: url("img/3x4fondo.PNG");
+    background-image: url("img/3x4illu.PNG");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -81,13 +81,13 @@ header {
 
 @media (min-width: 576px) {
     header {
-        background-image: url("img/4x3fondo.PNG");
+        background-image: url("img/4x3illu.PNG");
     }
 }
 
 @media (min-width: 992px) {
     header {
-        background-image: url("21x9fondo.PNG");
+        background-image: url("21x9illu.PNG");
     }
 }
 
@@ -101,7 +101,7 @@ Con tales colores, la imagen sirve de transición a la parte que ofrece más inf
 --------------------------------------------------------------------------------------------- */
 
 main {
-    background-image: url("img/21x9fondo.png");
+    background-image: url("img/21x9illu.png");
     background-position: center bottom;
     background-repeat: repeat-x;
     background-size: 100% auto;
