@@ -14,7 +14,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 /* cambien aquí sus colores, necesitan definir tres */
 
 :root {
-    --primercolor: #264653;
+    --primercolor: #fb9a3e;
     --segundocolor: #264653; /* menos luminoso y más saturado que el primero */
     --tercercolor: #046e8e; /* más luminoso y menos saturado que el primero */
     --colorclaro: rgba(255,255,255,0.9);
@@ -71,7 +71,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 --------------------------------------------------------------------------------------------- */
 
 header {
-    background-color: var(--tercercolor);
+    background-color: var(--primercolor);
     background-image: url("img/SMALL_3x4-01.png");
     background-position: center center;
     background-repeat: no-repeat;
