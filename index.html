@@ -203,11 +203,10 @@ Reducir el desperdicio y pérdidas de alimentos domiciliario e industrial. y pro
             var nuestroGrafico = new Chart(ctx, {
                 type: "line",
                 data: {
-                    labels: ["Red", "Blue", "Yellow", "Green", "Cyan", "Magenta"],
+                    labels: ["Alimentación, agricultura y ganadería", "Silvicultura y cambio de uso de suelo", "Transporte", "Generacion de electricidad", "Generacion de combustible", "Otros"],
                     datasets: [
-                        {
-                            label: "# of Votes",
-                            data: [12, 19, 3, 5, 2, 3],
+                            label: "Emisiones de gases de efecto invernadero por sector",
+                            data: [[22, 13, 15, 12, 18, 20],
                             backgroundColor: ["#FF0000", "#0000FF", "#FFFF00", "#00FF00", "#00FFFF", "#FF00FF"],
                             borderWidth: 1,
                         },
