@@ -71,7 +71,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 --------------------------------------------------------------------------------------------- */
 
 header {
-    background-color: var(--segundocolor);
+    background-color: var(--tercercolor);
     background-image: url("img/SMALL_3x4-01.png");
     background-position: center center;
     background-repeat: no-repeat;
